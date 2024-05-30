@@ -15,6 +15,9 @@ A simple and efficient Notes application built with Android Kotlin, leveraging t
 
 ![Screenshot (422)](https://github.com/Dv203/Notes_app/assets/99352891/a9484d2f-6559-4b7a-b821-9bcfe886c92d)
 
+![Screenshot (423)](https://github.com/Dv203/Notes_app/assets/99352891/77d670c2-1279-4da5-b5ea-b2fc2fc61100)
+
+
 
 ## Installation
 
